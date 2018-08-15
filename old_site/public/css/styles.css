@@ -543,7 +543,7 @@ pre code {
   color: #fff;
 }
 .contact .social-icons a .fa:before {
-  font-size: 30px;
+  font-size: 26px;
   text-align: center;
   padding: 0;
 }
@@ -560,9 +560,6 @@ pre code {
 }
 .footer .fa-heart {
   color: #fb866a;
-}
-.big-icon {
-  font-size: 30px;
 }
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
